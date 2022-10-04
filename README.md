@@ -13,20 +13,18 @@ Eric
   
 ## Skills
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E89313?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-0088CC?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material%20ui-2496ED?logo=Material-UI&logoColor=white&style=for-the-badge" />
-  <img alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+
 </p>
 
 <!--
